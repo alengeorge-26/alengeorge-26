@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252
+### <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" />
 ### https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white
 ### https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
 ### https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white
