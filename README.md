@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### - 🌱 I’m currently learning Machine Learning.
+### 
 
 ### 
 <p align="center">
