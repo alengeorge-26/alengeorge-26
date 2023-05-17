@@ -1,11 +1,16 @@
-### Hi there 👋
+# Hi there 👋
 
-### 
+## I'm Alen George
 
-### 
+- 👨‍💻 I’m doing B.Tech from College of Engineering, Trivandrum
+- 🌱 Currently learning ML and Web Development
+- 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,py" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,postman,mongodb" />
+    <img src="https://skillicons.dev/icons?i=tensorflow,r,postgres,mysql" />
   </a>
 </p>
 
