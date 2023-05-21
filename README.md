@@ -7,7 +7,7 @@
 
  Technologies I Use
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,html,css,js,react,nodejs,express,postman,mongodb,tensorflow,r,postgres,mysql&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,linux,html,css,bootstrap,js,react,nodejs,express,spring,postman,mongodb,tensorflow,r,postgres,mysql,bash&perline=)](https://skillicons.dev)
 <!-- <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,java,py,linux" />
