@@ -4,7 +4,8 @@
 
 - 👨‍💻 I’m doing B.Tech from College of Engineering, Trivandrum
 - 🌱 Currently learning ML and Web Development 
-- My Skills 🔅
+
+My Skills 🔅
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,html,css,js,react,nodejs,express,postman,mongodb,tensorflow,r,postgres,mysql&perline=4)](https://skillicons.dev)
 <!-- <p align="center">
