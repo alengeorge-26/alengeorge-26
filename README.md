@@ -10,10 +10,10 @@
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,html,css,js,react,nodejs,express,postman,mongodb,tensorflow,r,postgres,mysql&perline=4)](https://skillicons.dev)
 <!-- <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,py" />
-    <img src="https://skillicons.dev/icons?i=html,css,js,react" />
-    <img src="https://skillicons.dev/icons?i=nodejs,express,postman,mongodb" />
-    <img src="https://skillicons.dev/icons?i=tensorflow,r,postgres,mysql" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,linux" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,spring,postman,mongodb" />
+    <img src="https://skillicons.dev/icons?i=tensorflow,r,postgres,mysql,bash" />
   </a>
 </p> -->
 
