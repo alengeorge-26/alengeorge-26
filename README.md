@@ -9,7 +9,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,linux,html,css,bootstrap,js,react,nodejs,express,spring,postman,mongodb,tensorflow,r,postgres,mysql,bash&perline=5)](https://skillicons.dev)
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/alen-george-577681276/" target="_blank"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:alencgeorge26@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
