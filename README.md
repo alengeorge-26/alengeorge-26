@@ -17,10 +17,10 @@ Contacts
 </p>
 <!-- <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,linux" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,r" />
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react" />
     <img src="https://skillicons.dev/icons?i=nodejs,express,spring,postman,mongodb" />
-    <img src="https://skillicons.dev/icons?i=tensorflow,r,postgres,mysql,bash" />
+    <img src="https://skillicons.dev/icons?i=tensorflow,postgres,mysql,linux,bash" />
   </a>
 </p> -->
 
