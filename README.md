@@ -3,7 +3,7 @@
 ## I'm Alen George
 
 - 👨‍💻 Doing B.Tech from College of Engineering, Trivandrum
-- 🌱 Interested in Machine Learning and Web Development 
+- 🌱 Interested in Machine Learning , Data Science and Web Development 
 
  Technologies I Use
 
