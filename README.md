@@ -2,10 +2,10 @@
 
 ## I'm Alen George
 
-- 👨‍💻 Doing B.Tech from College of Engineering, Trivandrum
-- 🌱 Interested in Machine Learning , Data Science and Web Development 
+- 👨‍💻 Doing B.Tech from College of Engineering, Trivandrum.
+- 🌱 Interested in Machine Learning , Data Science and Web Development.
 
- Technologies I Use
+Skills
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,r,html,css,bootstrap,js,react,nodejs,express,mongodb,spring,postman,tensorflow,postgres,mysql,linux,bash&perline=5)](https://skillicons.dev)
 
