@@ -19,7 +19,7 @@ Contacts
 
 <div style={display:flex,align-items:center,justify-content:center,gap:64px}>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=alengeorge-26&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=50"/>
-  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alengeorge-26&theme=react&line_height=50"/>
 </div>
 
 
