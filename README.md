@@ -3,13 +3,13 @@
 ## I'm Alen George
 
 - 👨‍💻 Doing B.Tech from College of Engineering, Trivandrum.
-- 🌱 Interested in Machine Learning , Data Science and Web Development.
+- 🌱 Interested in Machine Learning and Web Development.
 
-Skills
+## Skills
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,r,html,css,bootstrap,js,react,nodejs,express,mongodb,spring,postman,tensorflow,postgres,mysql,linux,bash&perline=5)](https://skillicons.dev)
 
-Contacts
+## Contact
 
 <p>
   <a href="https://www.linkedin.com/in/alen-george-577681276/" target="_blank"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
