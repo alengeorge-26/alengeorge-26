@@ -4,7 +4,6 @@
 
 - 👨‍💻 B.Tech CSE student at College of Engineering, Trivandrum.
 - 🌱 Interested in Machine Learning and Web Development.
-- ♾️ I’m currently learning Web3.0-Blockchain
 
 ## Skills
 
