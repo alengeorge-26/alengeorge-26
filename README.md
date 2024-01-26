@@ -2,8 +2,8 @@
 
 ## I'm Alen George
 
-- 👨‍💻 B.Tech CSE student at College of Engineering, Trivandrum.
-- 🌱 Interested in Machine Learning and Web Development.
+- 👨‍💻 B.Tech CSE student at College of Engineering Trivandrum.
+- 🌱 Interested in Machine Learning, Data Science and Web Development.
 
 ## Skills
 
