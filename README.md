@@ -4,7 +4,7 @@
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,solidity,html,css,bootstrap,sass,tailwind,nodejs,vite,react,nextjs,astro,php,express,spring,flask,mongodb,postgres,mysql,postman&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,solidity,html,css,bootstrap,sass,tailwind,nodejs,vite,react,nextjs,astro,django,express,spring,flask,mongodb,postgres,mysql,postman&perline=7)](https://skillicons.dev)
 
 ## Contact
 
