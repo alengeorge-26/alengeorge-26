@@ -1,9 +1,5 @@
 # Hi there 👋
 
-## I'm Alen George
-
-## Skills
-
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,solidity,html,css,bootstrap,sass,tailwind,nodejs,vite,react,nextjs,astro,django,express,spring,flask,mongodb,postgres,mysql,redis,postman&perline=7)](https://skillicons.dev)
 
 ## Contact
