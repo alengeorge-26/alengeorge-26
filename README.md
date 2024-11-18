@@ -1,6 +1,6 @@
 # Hi there 👋
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,html,css,bootstrap,sass,tailwind,materialui,nodejs,vite,react,nextjs,astro,django,express,spring,flask,mongodb,postgres,mysql,firebase,redis,postman&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,html,css,bootstrap,sass,tailwind,materialui,nodejs,vite,react,nextjs,astro,django,express,spring,flask,mongodb,postgres,mysql,firebase,redis,postman&perline=10)](https://skillicons.dev)
 
 ## Contact
 
