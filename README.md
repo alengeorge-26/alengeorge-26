@@ -17,14 +17,14 @@
 
 ![Alen's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alengeorge-26&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
 
-<p align="center">
+<!--<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,java,py,r" />
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react" />
     <img src="https://skillicons.dev/icons?i=nodejs,express,spring,postman,mongodb" />
     <img src="https://skillicons.dev/icons?i=tensorflow,postgres,mysql,linux,bash" />
   </a>
-</p>
+</p>-->
 
 <!--
 **alengeorge-26/alengeorge-26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
