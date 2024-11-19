@@ -2,8 +2,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,html,css,bootstrap,sass,tailwind,materialui,nodejs,vite,react,nextjs,astro,django,express,spring,flask,mongodb,postgres,mysql,firebase,redis,postman&perline=15)](https://skillicons.dev)
 
-[![My Skills](https://simpleskill.icons.workers.dev/svg?
-i=c,cpp,java,python,js,ts,html,css,bootstrap,sass,tailwind,materialui,nodejs,vite,react,nextjs,astro,django,express,spring,flask,mongodb,postgres,mysql,firebase,redis,postman&perline=15)]
+[![My Skills](https://simpleskill.icons.workers.dev/svg?i=react,node.js,docker,mongodb,postgresql,awslambda,adobexd,bitbucket&perline=4)]
+
 ## Contact
 
 <p>
