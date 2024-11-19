@@ -1,8 +1,4 @@
-# Hi there 👋
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,html,css,bootstrap,sass,tailwind,materialui,nodejs,vite,react,nextjs,astro,django,express,spring,flask,mongodb,postgres,mysql,firebase,redis,postman&perline=15)](https://skillicons.dev)
-
-## Contact
 
 <p>
   <a href="https://www.linkedin.com/in/alen-george-577681276/" target="_blank"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -24,6 +20,12 @@
     <img src="https://skillicons.dev/icons?i=nodejs,express,spring,postman,mongodb" />
     <img src="https://skillicons.dev/icons?i=tensorflow,postgres,mysql,linux,bash" />
   </a>
+
+  # Hi there 👋
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,html,css,bootstrap,sass,tailwind,materialui,nodejs,vite,react,nextjs,astro,django,express,spring,flask,mongodb,postgres,mysql,firebase,redis,postman&perline=15)](https://skillicons.dev)
+
+## Contact
 </p>-->
 
 <!--
