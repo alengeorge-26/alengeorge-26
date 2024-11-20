@@ -1,9 +1,6 @@
 
 
-<p>
-  <a href="https://www.linkedin.com/in/alen-george-577681276/" target="_blank"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:alencgeorge26@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
+
 
 
 <div style={display:flex,align-items:center,justify-content:center,gap:64px}>
@@ -29,6 +26,11 @@
 </p>-->
 
 <!--
+
+<p>
+  <a href="https://www.linkedin.com/in/alen-george-577681276/" target="_blank"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:alencgeorge26@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 **alengeorge-26/alengeorge-26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
