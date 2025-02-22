@@ -24,7 +24,7 @@
 
   # Hi there 👋
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,java,nodejs,react,angular,django,express,spring,aws,docker&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,java,nodejs,react,angular,django,express,spring,aws,docker&perline=10)](https://skillicons.dev)
 
 ## Contact
 </p>
