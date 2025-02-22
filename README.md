@@ -18,16 +18,16 @@
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react" />
     <img src="https://skillicons.dev/icons?i=nodejs,express,spring,postman,mongodb" />
     <img src="https://skillicons.dev/icons?i=tensorflow,postgres,mysql,linux,bash" />
-  </a>
+  </a>-->
 
   
 
   # Hi there 👋
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,html,css,bootstrap,sass,tailwind,materialui,nodejs,vite,react,nextjs,astro,django,express,spring,flask,mongodb,postgres,mysql,firebase,redis,postman&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,java,nodejs,react,angular,django,express,spring,aws,docker&perline=5)](https://skillicons.dev)
 
 ## Contact
-</p>-->
+</p>
 
 <!--
 
