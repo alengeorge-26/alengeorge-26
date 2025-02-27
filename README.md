@@ -5,9 +5,7 @@
 
 ![Alen's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alengeorge-26&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
 
-# Hi there 👋
-
-[![My Skills](https://skillicons.dev/icons?i=cpp,java,nodejs,react,angular,django,express,spring,aws,docker&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,java,nodejs,react,angular,express,django,spring,aws,docker&perline=10)](https://skillicons.dev)
 
 
 <!--
