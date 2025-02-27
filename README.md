@@ -1,8 +1,3 @@
-
-
-
-
-<!--
 <div style={display:flex,align-items:center,justify-content:center,gap:64px}>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=alengeorge-26&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=50"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alengeorge-26&theme=react&line_height=50"/>
@@ -10,19 +5,7 @@
 
 ![Alen's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alengeorge-26&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
 
--->
-
-<!--<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,r" />
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react" />
-    <img src="https://skillicons.dev/icons?i=nodejs,express,spring,postman,mongodb" />
-    <img src="https://skillicons.dev/icons?i=tensorflow,postgres,mysql,linux,bash" />
-  </a>-->
-
-  
-
-  # Hi there 👋
+# Hi there 👋
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,java,nodejs,react,angular,django,express,spring,aws,docker&perline=10)](https://skillicons.dev)
 
